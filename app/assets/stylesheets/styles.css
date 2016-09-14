@@ -1,0 +1,19 @@
+h2 {
+  color: #27302F;
+}
+
+html {
+  font: 100% Helvetica, sans-seriff;
+}
+
+h1 {
+  color: #27302F;
+}
+
+body {
+  width: 1100px;
+}
+
+header {
+  padding: 2.5em 5%;
+}
